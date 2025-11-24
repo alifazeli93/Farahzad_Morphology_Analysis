@@ -20,9 +20,13 @@ The clustering was performed on four primary, normalized morphological indicator
 The K-Means model successfully identified **four distinct morphological clusters**, each representing a unique historical development or planning era within the neighborhood:
 
 | Cluster ID | Type Name | Avg. Area (m²) | Avg. Compactness | Avg. Rectangular Fit | Dominant Orientation | Description |
+
 | **Cluster 0** | **Large, Irregular & Organic** | 8,376 | Low | Low | Variable | Represents large, historical land holdings, often undeveloped or topographically constrained. |
+
 | **Cluster 1** | **Medium-sized Organic** | 620 | Medium | Medium | Dominantly North-South | Found in the older, naturally developed sections of the neighborhood. |
+
 | **Cluster 2** | **Fine-Grained Planned** | 205 | High | High | Strict North-South / East-West | Characterizes highly dense, regularly planned residential blocks with small parcel sizes. |
+
 | **Cluster 3** | **Small & Highly Compact** | 150 | Highest | High | Mostly East-West | Represents highly fragmented, newly developed residential areas. |
 
 ## Visual Outcomes
