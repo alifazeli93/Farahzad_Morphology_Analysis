@@ -1,6 +1,6 @@
 # Farahzad_Morphology_Analysis
 ## Project Overview
-This project applies **Geospatial Data Science** and **Unsupervised Machine Learning (K-Means Clustering)** to analyze and classify the urban fabric (Morphology) of the Farahzad neighborhood in Tehran. The goal is to identify distinct, hidden spatial patterns and morphological typologies based on quantifiable geometric parameters.
+This project applies Geospatial Data Science and K-Means Clustering to analyze and classify the urban fabric (Morphology) of the Farahzad neighborhood in Tehran. The goal is to identify distinct, hidden spatial patterns and morphological typologies based on quantifiable geometric parameters.
 
 ## Methodology & Tools
 The analysis pipeline was developed entirely in **Python** using the following core libraries:
